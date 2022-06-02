@@ -3,7 +3,7 @@ Student Name: Sudarat Suwannasang
 ID : 364211760051
 Group : MIT212
 """
-
+"""
 class Student:
     class Vehicle:
         def __init__(self, name, id, age, weight, height):
@@ -23,31 +23,4 @@ A = int(input('Age?: '))
 W = float(input('Weight?: '))
 H = int(input('Height?: '))
 
-vac = input('How many are you vaccianted? : ')
-print('1.sinovac')
-print('2.astrazeneca')
-print('3.johnson&johnson')
-print('4.moderna')
-print('5.sinopharm')
-print('6.pfizer')
-s1 = int(input('select: '))
-d1 = input('Date(dd/mm/yyyy): ')
-print('1.sinovac')
-print('2.astrazeneca')
-print('3.johnson&johnson')
-print('4.moderna')
-print('5.sinopharm')
-print('6.pfizer')
-s2 = int(input('select: '))
-d2 = input('Date(dd/mm/yyyy): ')
-
-print('Student Infomation: ')
-print('Student Name: ',S)
-print('Age: ',A)
-print('Weight: ',W)
-print('vaccine 1: ',s1,'date: ',d1)
-print('vaccine 2: ',s2,'date: ',d2)
-
-
-
-
+"""
